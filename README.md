@@ -1,4 +1,4 @@
-Hello,
+Hi there,
 
 <a href="https://twitter.com/Bhagathchary555">
   <img align="left" alt="Bhagath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -20,12 +20,12 @@ Hello,
 
 <br />
 
-This is BHAGATH Mamindlapelly, Mechanical engineer, interseted in problem solving with the computers. Python has been the primary interest. 
+This is BHAGATH Mamindlapelly. Mechanical engineer from India. Coding hobbyist.
 
 Hobbies:
-    Taking random photos and editing them.
-    Generating motion graphics content in Blender. 
-    Blender python scripting.
+    <li>Taking random photos and editing them.
+    <li>Generating motion graphics content in Blender.
+    <li>Blender python scripting.
 
 
 **languages and tools:**  
