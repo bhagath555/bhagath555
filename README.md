@@ -9,6 +9,10 @@ Hello,
 <a href="https://www.researchgate.net/profile/Bhagath-Mamindlapelly">
   <img align="left" alt="Bhagath's ResearchGate" width="22px" src="https://user-images.githubusercontent.com/33441778/141303227-957696dc-4639-455f-a632-889a552781e3.png" />
 </a>
+<a href="https://www.youtube.com/channel/UCtn2hr1r2ormtqmcl3IAxHQ">
+  <img align="left" alt="Bhagath's ResearchGate" width="22px" src="https://www.pngfind.com/pngs/b/123-1235246_youtube-logo-png.png" />
+</a>
+
 
 
 
