@@ -22,6 +22,11 @@ Hello,
 
 This is BHAGATH Mamindlapelly, Mechanical engineer, interseted in problem solving with the computers. Python has been the primary interest. 
 
+Hobbies:
+    Taking random photos and editing them.
+    Generating motion graphics content in Blender. 
+    Blender python scripting.
+
 
 **languages and tools:**  
 
