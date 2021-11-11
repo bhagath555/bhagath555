@@ -1,8 +1,8 @@
-Hi there,
-
 ![](https://visitor-badge.glitch.me/badge?page_id=bhagath555.bhagath555)
 
 <br />
+
+Hi there,
 
 This is BHAGATH Mamindlapelly. Mechanical engineer from India. Coding hobbyist.
 
