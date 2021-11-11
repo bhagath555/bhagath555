@@ -1,11 +1,16 @@
 Hello,
 
 <a href="https://twitter.com/Bhagathchary555">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Bhagath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bhagath-mamindlapelly-616474156/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bhagath's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Bhagath-Mamindlapelly">
+  <img align="left" alt="Bhagath's ResearchGate" width="22px" src="https://user-images.githubusercontent.com/33441778/141303227-957696dc-4639-455f-a632-889a552781e3.png" />
+</a>
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bhagath555.bhagath555)
 
