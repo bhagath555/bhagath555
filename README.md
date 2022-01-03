@@ -4,12 +4,19 @@
 
 Hi there,
 
-This is BHAGATH Mamindlapelly. Mechanical engineer from India. Coding hobbyist.
+This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Computational Mechanics Lab, IIT Roorkee.
+
+#### Scientific fields of interest:
+
+* Finite Element Analysis,
+* Isogeometric analysis, 
+* Geometric modelling (B-Splines, NURBS, and PHT-Splines),
+* Optimization techniques.
+* Data Visualization
 
 #### Hobbies
-- Taking random photos and editing them.
-- Generating motion graphics content in Blender.
-- Blender python scripting.
+- Capturing the moments through my camera lens.
+- 3D modelling and Animation.
 
 
 #### languages and tools
