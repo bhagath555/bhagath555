@@ -15,7 +15,7 @@ This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Comput
 * Data Visualization
 
 #### Hobbies
-- Capturing the moments through my camera lens.
+- Looking through camera lens.
 - 3D modelling and Animation.
 
 
