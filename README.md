@@ -11,12 +11,12 @@ This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Comput
 * Finite Element Analysis,
 * Isogeometric analysis, 
 * Geometric modelling (B-Splines, NURBS, and PHT-Splines),
-* Optimization techniques.
-* Data Visualization
+* Optimization techniques,
+* Data Visualization.
 
 #### Hobbies
-- Looking through camera lens.
-- 3D modelling and Animation.
+- Taking random photos and editing.
+- Procedural modelling and Animation in Blender.
 
 
 #### languages and tools
@@ -24,6 +24,7 @@ This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Comput
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></code>
 
 
 
