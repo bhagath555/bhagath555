@@ -21,6 +21,8 @@ This is BHAGATH Mamindlapelly, Mechanical engineer from India, Working at Comput
 
 #### languages and tools
 
+<a href="https://github.com/bhagath555/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagath555&layout=compact&theme=buefy&hide_border=true" /></a>
+
 <a><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 <a><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 <a><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></a>
